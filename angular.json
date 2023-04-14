@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "memoAutoRepairpage": {
+    "autoBodies": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:application": {
@@ -20,7 +20,7 @@
             "allowedCommonJsDependencies": [
               "@sendgrid/mail"
             ],
-            "outputPath": "dist/memo-auto-repairpage",
+            "outputPath": "dist/auto-bodies",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -78,10 +78,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "memoAutoRepairpage:build:production"
+              "browserTarget": "autoBodies:build:production"
             },
             "development": {
-              "browserTarget": "memoAutoRepairpage:build:development"
+              "browserTarget": "autoBodies:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -89,7 +89,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "memoAutoRepairpage:build"
+            "browserTarget": "autoBodies:build"
           }
         },
         "test": {
@@ -115,5 +115,5 @@
       }
     }
   },
-  "defaultProject": "memoAutoRepairpage"
+  "defaultProject": "autoBodies"
 }

@@ -159,65 +159,40 @@
   {
 	  "title": "New WebSite",
       "description": "from the memo Auto repair team open this web page to learn more about us",
-      "image": "assets/memoautorepairlogo.png"
+      "image": "assets/banner1.jpg"
   },
     {
-	  "title": "Title",
-      "description": "Comentarios",
-      "image": "assets/memoautorepairlogo.png"
+	  "title": "",
+      "description": "",
+      "image": "assets/banner2.jpg"
   },
       {
-	  "title": "Title",
-      "description": "Comentarios",
-      "image": "assets/memoautorepairlogo.png"
+	  "title": "",
+      "description": "",
+      "image": "assets/banner3.jpg"
   }
   ],
  "reviews" : [
     {
-      "name": "nika shushtakashvili",
-      "comment": "Hello Brooklyn! We all know how hard is to find a reliable and trusted mechanic. I've been going to MEMO Auto Repair Inc since fall of 2021.  I can't recommend them enough. Their focus, professionalism, due diligence and fairness are unmatched.",
+      "name": "Christopher Iengo",
+      "comment": "Jose great guy n best work.",
       "rating": 5,
-	  "gender":"F",
-	  "date" : "03/2023"
+	  "gender":"M",
+	  "date" : "03/2021"
     },
     {
-      "name": "Merphine Sitorus",
-      "comment": "They hooked up my control arms both upper and lower and switched my crossmember. Changed out one of my sensors and did my wheel alignment for a really great price.",
+      "name": "Andrew DeOrio",
+      "comment": "Excellent body work and great prices.",
       "rating": 5 ,
-	  "gender":"F",
+	  "gender":"M",
 	  "date" : "04/2022"
-    }
-	,
+    },
     {
-      "name": "Gedalia Miller",
-      "comment": "Great service very efficient, Just recently visited the shop they went out of their way to order late in the day a new Battery allowing me to leave and come back late at night to replace it.",
+      "name": "kenneth bengard",
+      "comment": "I was impressed with the quality of work and the attention to detail that was put into my car. I highly recommend Latoneria to anyone in need of auto body work.",
       "rating": 5 ,
 	  "gender":"M",
-	  "date" : "06/2021"
-    }
-	,
-    {
-      "name": "hussein Jaber",
-      "comment": "Very professional and great mechanics specially the owner germo good man and great prices  love it.",
-      "rating": 5 ,
-	  "gender":"M",
-	  "date" : "08/2022"
-    }
-	,
-    {
-      "name": "SANDRA PATRICIA RODRIGUEZ MOJICA",
-      "comment": "Excelente servicio. Preguntar  por su propietario GUILLERMO BAQUERO.",
-      "rating": 5 ,
-	  "gender":"F",
-	  "date" : "03/2022"
-    }
-	,
-    {
-      "name": "isa4c",
-      "comment": "Muy buen servicio",
-      "rating": 5 ,
-	  "gender":"M",
-	  "date" : "06/2022"
+	  "date" : "04/2022"
     }
   ]
 
