@@ -6,8 +6,8 @@
       "resume": "We specialize in repairing all types of body damage on your vehicle.",
       "description": "Our team of highly trained technicians can repair everything from small dents and scratches to major collision damage. We use state-of-the-art equipment and the latest techniques to ensure that your vehicle looks as good as new. We also work with all insurance companies to make the repair process as easy and stress-free as possible.",
       "images": [
-        { "image": "assets/body-repair-1.jpg" },
-        { "image": "assets/body-repair-2.jpg" }
+        { "image": "assets/banner3.jpg" },
+        { "image": "assets/banner3.jpg" }
       ]
     },
     {
@@ -16,8 +16,8 @@
       "resume": "We offer professional painting services to make your car look like new.",
       "description": "Our skilled painters use only the highest quality paint and equipment to ensure that your car's finish is perfect. We can match any color and finish, and we guarantee that you'll be satisfied with the results. Whether you need a touch-up or a full repaint, we're here to help.",
       "images": [
-        { "image": "assets/painting-1.jpg" },
-        { "image": "assets/painting-2.jpg" }
+        { "image": "assets/banner3.jpg" },
+        { "image": "assets/banner3.jpg" }
       ]
     },
     {
@@ -26,8 +26,8 @@
       "resume": "We use advanced techniques to remove dents from your car's body.",
       "description": "Our skilled technicians use specialized tools and techniques to remove dents without damaging your car's paint or finish. Whether you have a small ding or a large dent, we can make your car look like new again. We also offer paintless dent repair, which can save you time and money.",
       "images": [
-        { "image": "assets/dent-removal-1.jpg" },
-        { "image": "assets/dent-removal-2.jpg" }
+        { "image": "assets/banner3.jpg" },
+        { "image": "assets/banner3.jpg" }
       ]
     },
     {
@@ -36,8 +36,8 @@
       "resume": "We offer complete detailing services to keep your car looking its best.",
       "description": "Our detailing services include washing, waxing, polishing, and interior cleaning. We use only the highest quality products and equipment to ensure that your car looks and smells like new. We also offer ceramic coating and paint protection services to keep your car looking great for years to come.",
       "images": [
-        { "image": "assets/detailing-1.jpg" },
-        { "image": "assets/detailing-2.jpg" }
+        { "image": "assets/banner3.jpg" },
+        { "image": "assets/banner3.jpg" }
       ]
     },
     {
@@ -46,8 +46,8 @@
       "resume": "We can repair or replace your damaged glass.",
       "description": "We offer complete glass repair and replacement services for all types of vehicles. Whether you have a crack, chip, or shattered glass, our team of experts can repair or replace it quickly and efficiently. We use only high-quality glass and materials to ensure that your vehicle's glass is as good as new. We also work with all insurance companies to make the repair process as easy and stress-free as possible.",
 	   "images": [
-        { "image": "assets/detailing-1.jpg" },
-        { "image": "assets/detailing-2.jpg" }
+        { "image": "assets/banner3.jpg" },
+        { "image": "assets/banner3.jpg" }
       ]
     }
   ] ,
