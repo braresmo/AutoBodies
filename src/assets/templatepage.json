@@ -1,157 +1,63 @@
 {
   "ourService": [
-  {
-      "title": "Mechanics",
-      "logo": "assets/mechanic.png",
-	  "resume":"General mechanical repair and maintenance",
-      "description": "Our team of experienced mechanics is dedicated to providing top-notch service and repairs for all types of vehicles. From routine maintenance to major repairs, we have the skills and expertise to get your car running smoothly again. We use only the highest quality parts and equipment, and we're committed to providing honest, reliable service to every customer.",
+    {
+      "title": "Body repair",
+      "logo": "assets/body-repair.png",
+      "resume": "We specialize in repairing all types of body damage on your vehicle.",
+      "description": "Our team of highly trained technicians can repair everything from small dents and scratches to major collision damage. We use state-of-the-art equipment and the latest techniques to ensure that your vehicle looks as good as new. We also work with all insurance companies to make the repair process as easy and stress-free as possible.",
       "images": [
-	  {"image":"assets/mechanics.jpg"}
+        { "image": "assets/body-repair-1.jpg" },
+        { "image": "assets/body-repair-2.jpg" }
       ]
     },
     {
-      "title": "Oil Change",
-      "logo": "assets/engine-oil.png",
-	  "resume":"Oil change for cars, recommended every N Kilometers",
-      "description": "Regular oil changes are essential for maintaining the health of your vehicle's engine. Our team of experts will get you in and out quickly, while ensuring that your car is running smoothly and efficiently. We use only the best oil and filters, and our technicians are trained to spot potential problems before they become major issues.",
+      "title": "Painting",
+      "logo": "assets/painting.png",
+      "resume": "We offer professional painting services to make your car look like new.",
+      "description": "Our skilled painters use only the highest quality paint and equipment to ensure that your car's finish is perfect. We can match any color and finish, and we guarantee that you'll be satisfied with the results. Whether you need a touch-up or a full repaint, we're here to help.",
       "images": [
-	  {"image":"assets/mainimagememo.jpg"},
-		  {"image":"assets/freno-de-disco.png"}
+        { "image": "assets/painting-1.jpg" },
+        { "image": "assets/painting-2.jpg" }
       ]
     },
     {
-      "title": "brake repair",
-      "logo": "assets/freno-de-disco.png",
-	  "resume":"Reparamos el sistema de frenos de tu vehículo para garantizar tu seguridad",
-      "description": "Your brakes are one of the most important safety features on your car. If you're experiencing squeaking or grinding when you brake, or if your brakes just don't feel as responsive as they used to, it's time to bring your car in for service. Our expert technicians will diagnose the problem and provide the necessary repairs to get your brakes working like new.",
+      "title": "Dent removal",
+      "logo": "assets/dent-removal.png",
+      "resume": "We use advanced techniques to remove dents from your car's body.",
+      "description": "Our skilled technicians use specialized tools and techniques to remove dents without damaging your car's paint or finish. Whether you have a small ding or a large dent, we can make your car look like new again. We also offer paintless dent repair, which can save you time and money.",
       "images": [
-	  {"image":"assets/mainimagememo.jpg"},
-		  {"image":"assets/freno-de-disco.png"}
+        { "image": "assets/dent-removal-1.jpg" },
+        { "image": "assets/dent-removal-2.jpg" }
       ]
     },
     {
-      "title": "Alignment and Balancing",
-      "logo": "assets/balanceo-de-balance.png",
-	  "resume":"Alignment and balancing of wheels for smooth driving",
-      "description": "Alignment and Balancing: Proper wheel alignment and tire balancing are crucial for ensuring a smooth, comfortable ride, as well as maximizing the life of your tires. Our team of experts will use the latest equipment and techniques to ensure that your wheels are properly aligned and balanced, giving you the best possible driving experience.",
+      "title": "Detailing",
+      "logo": "assets/detailing.png",
+      "resume": "We offer complete detailing services to keep your car looking its best.",
+      "description": "Our detailing services include washing, waxing, polishing, and interior cleaning. We use only the highest quality products and equipment to ensure that your car looks and smells like new. We also offer ceramic coating and paint protection services to keep your car looking great for years to come.",
       "images": [
-	  {"image":"assets/mainimagememo.jpg"}
+        { "image": "assets/detailing-1.jpg" },
+        { "image": "assets/detailing-2.jpg" }
       ]
     },
     {
-      "title": "Tires",
-      "logo": "assets/llanta-de-carro.png",
-	  "resume":"Sale and installation of new tires",
-      "description": "We offer a wide range of high-quality tires from the industry's top brands. Whether you're looking for all-season, winter, or performance tires, our experts can help you find the perfect set for your vehicle and your driving needs. We also offer tire mounting, balancing, and alignment services to ensure that your tires are performing at their best.",
-      "images": [
-	  {"image":"assets/mainimagememo.jpg"}
-      ]
-    },
-    {
-      "title": "Electronics",
-      "logo": "assets/circuit.png",
-	  "resume":"Electronics repair and maintenance",
-      "description": "From stereo systems to GPS navigation, our team of experts can help you get the most out of your car's electronics. We offer a wide range of products and services, including installation, repair, and upgrades. Whether you're looking to add some extra bass to your sound system or you want to integrate your smartphone with your car's infotainment system, we can help.",
-      "images": [
-	  {"image":"assets/mainimagememo.jpg"}
-      ]
-    },
-    {
-      "title": "Electrical Systems",
-      "logo": "assets/plug.png",
-	  "resume":"Repair and maintenance of electrical systems",
-      "description": "Your car's electrical system is responsible for powering everything from your headlights to your windshield wipers. If you're experiencing electrical problems, such as a dead battery or malfunctioning lights, our team of experts can diagnose and repair the issue quickly and efficiently.",
-      "images": [
-	  {"image":"assets/mainimagememo.jpg"}
-      ]
-    },
-    {
-      "title": "Computerized Diagnostics",
-      "logo": "assets/analytic.png",
-	  "resume":"Computerized diagnostics for car issues",
-      "description": "Computerized Diagnostics: Modern cars are full of complex computer systems that can be difficult to diagnose and repair. Fortunately, our team of experts has the latest diagnostic equipment and software to quickly and accurately diagnose any issues with your car's systems. From engine management to transmission control, we have the tools and expertise to get your car running smoothly again.",
-      "images": [
-	  {"image":"assets/mainimagememo.jpg"}
-      ]
-    },
-    {
-      "title": "Engine Repair",
-      "logo": "assets/engine.png",
-	  "resume":"Engine repair and maintenance",
-      "description": "If your engine is making strange noises, running rough, or just not performing like it used to, it's time to bring it in for service. Our team of expert technicians will diagnose the problem and provide the necessary repairs to get your engine running smoothly again.",
-      "images": [
-	  {"image":"assets/mainimagememo.jpg"}
-      ]
-    },
-    {
-      "title": "Muffler Repair",
-      "logo": "assets/muffler.png",
-	  "resume":"Muffler repair and maintenance",
-      "description": "A noisy muffler can be annoying and embarrassing, but it can also be a sign of a more serious problem. Our team of experts can diagnose and repair any issues with your muffler or exhaust system, ensuring that your car is running smoothly and quietly.",
-      "images": [
-	  {"image":"assets/mainimagememo.jpg"}
-      ]
-    },
-    {
-      "title": "Air Conditioning",
-      "logo": "assets/air-conditioning.png",
-	  "resume":"Air conditioning repair and maintenance",
-      "description": "A working air conditioning system is essential for staying comfortable on hot summer days. If your AC isn't working properly, our team of experts can diagnose and repair the issue quickly and efficiently, so you can get back to enjoying your drive.",
-      "images": [
-	  {"image":"assets/mainimagememo.jpg"}
-      ]
-    },
-    {
-      "title": "Heating",
-      "logo": "assets/heat.png",
-	  "resume":"Heating repair and maintenance",
-      "description": "Our team of experienced technicians provides comprehensive heating services to ensure your vehicle's heating system is working efficiently and effectively. From diagnosing and repairing heating system malfunctions to installing new heating systems, we have the expertise to handle all your heating needs. We use advanced diagnostic tools and techniques to identify any issues with your heating system and provide the best solutions to restore its functionality. Our services include repairing and replacing heating system components such as thermostats, radiators, and heating cores. We also offer preventive maintenance services to ensure your heating system is in top condition, helping you avoid unexpected breakdowns and costly repairs.",
+      "title": "Glass repair",
+      "logo": "assets/glass-repair.png",
+      "resume": "We can repair or replace your damaged glass.",
+      "description": "We offer complete glass repair and replacement services for all types of vehicles. Whether you have a crack, chip, or shattered glass, our team of experts can repair or replace it quickly and efficiently. We use only high-quality glass and materials to ensure that your vehicle's glass is as good as new. We also work with all insurance companies to make the repair process as easy and stress-free as possible.",
 	   "images": [
-	   {"image":"assets/mainimagememo.jpg"}
+        { "image": "assets/detailing-1.jpg" },
+        { "image": "assets/detailing-2.jpg" }
       ]
     }
   ] ,
   "news": [
     {
-      "title": "New product launch!",
-      "description": "We are excited to announce the launch of our latest product, which promises to revolutionize the industry. Read more about it here.",
-      "image": "https://example.com/images/product-launch.jpg",
-      "link": "https://example.com/news/product-launch",
-      "date": "2023-03-25"
-    },
-    {
-      "title": "Summer sale!",
-      "description": "Get ready for summer with our incredible sale. Save up to 50% on selected products. Limited time offer, so don't miss out!",
-      "image": "https://example.com/images/summer-sale.jpg",
-      "link": "https://example.com/news/summer-sale",
-      "date": "2023-06-15"
-    },
-    {
-      "title": "New store opening",
-      "description": "We are excited to announce the opening of our newest store in downtown. Come and visit us to discover our latest products and promotions.",
-      "image": "https://example.com/images/new-store.jpg",
-      "link": "https://example.com/news/new-store-opening",
-      "date": "2023-04-01"
-    },
-    {
-      "title": "Holiday gift guide",
-      "description": "Find the perfect gift for your loved ones this holiday season with our comprehensive gift guide. From tech gadgets to fashion accessories, we have something for everyone.",
-      "image": "https://example.com/images/gift-guide.jpg",
-      "link": "https://example.com/news/holiday-gift-guide",
-      "date": "2023-12-01"
-    },
-    {
-      "title": "Company anniversary",
-      "description": "We are proud to celebrate our 10th anniversary this year. Thank you to all of our loyal customers who have supported us throughout the years.",
-      "image": "https://example.com/images/company-anniversary.jpg",
-      "link": "https://example.com/news/company-anniversary",
-      "date": "2023-08-15"
-    },
-    {
       "title": "New website launch",
-      "description": "We are excited to announce the launch of our new website. Our new platform offers a better user experience and more features than ever before.",
-      "image": "https://example.com/images/new-website.jpg",
-      "link": "https://example.com/news/new-website-launch",
+      "description": "Exciting news! We have just launched our brand new website, designed with a fresh new look and user-friendly navigation, making it easy to find the information you need about our products and services. Our new website is fully optimized for mobile devices, ensuring that you can access our website from any device, at any time. We are thrilled to share our new website with you and look forward to your continued support!",
+      "resume": "We are excited to announce the launch of our new website. Our new platform offers a better user experience and more features than ever before.",
+      "image": "assets/banner3.jpg",
+      "link": "#",
       "date": "2023-05-01"
     }
   ],
