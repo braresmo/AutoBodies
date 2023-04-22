@@ -6,8 +6,7 @@
       "resume": "We specialize in repairing all types of body damage on your vehicle.",
       "description": "Our team of highly trained technicians can repair everything from small dents and scratches to major collision damage. We use state-of-the-art equipment and the latest techniques to ensure that your vehicle looks as good as new. We also work with all insurance companies to make the repair process as easy and stress-free as possible.",
       "images": [
-        { "image": "assets/banner3.jpg" },
-        { "image": "assets/banner3.jpg" }
+        { "image": "assets/body-repair.jpg" }
       ]
     },
     {
@@ -16,8 +15,8 @@
       "resume": "We offer professional painting services to make your car look like new.",
       "description": "Our skilled painters use only the highest quality paint and equipment to ensure that your car's finish is perfect. We can match any color and finish, and we guarantee that you'll be satisfied with the results. Whether you need a touch-up or a full repaint, we're here to help.",
       "images": [
-        { "image": "assets/banner3.jpg" },
-        { "image": "assets/banner3.jpg" }
+        { "image": "assets/painting1.jpg" },
+        { "image": "assets/painting2.jpg" }
       ]
     },
     {
@@ -26,8 +25,8 @@
       "resume": "We use advanced techniques to remove dents from your car's body.",
       "description": "Our skilled technicians use specialized tools and techniques to remove dents without damaging your car's paint or finish. Whether you have a small ding or a large dent, we can make your car look like new again. We also offer paintless dent repair, which can save you time and money.",
       "images": [
-        { "image": "assets/banner3.jpg" },
-        { "image": "assets/banner3.jpg" }
+        { "image": "assets/dent-removal1.jpg" },
+        { "image": "assets/dent-removal2.jpg" }
       ]
     },
     {
@@ -36,8 +35,7 @@
       "resume": "We offer complete detailing services to keep your car looking its best.",
       "description": "Our detailing services include washing, waxing, polishing, and interior cleaning. We use only the highest quality products and equipment to ensure that your car looks and smells like new. We also offer ceramic coating and paint protection services to keep your car looking great for years to come.",
       "images": [
-        { "image": "assets/banner3.jpg" },
-        { "image": "assets/banner3.jpg" }
+        { "image": "assets/detailing1.jpg" }
       ]
     },
     {
@@ -46,8 +44,7 @@
       "resume": "We can repair or replace your damaged glass.",
       "description": "We offer complete glass repair and replacement services for all types of vehicles. Whether you have a crack, chip, or shattered glass, our team of experts can repair or replace it quickly and efficiently. We use only high-quality glass and materials to ensure that your vehicle's glass is as good as new. We also work with all insurance companies to make the repair process as easy and stress-free as possible.",
 	   "images": [
-        { "image": "assets/banner3.jpg" },
-        { "image": "assets/banner3.jpg" }
+        { "image": "assets/glass-repair1.jpg" }
       ]
     }
   ] ,
@@ -56,7 +53,7 @@
       "title": "New website launch",
       "description": "Exciting news! We have just launched our brand new website, designed with a fresh new look and user-friendly navigation, making it easy to find the information you need about our products and services. Our new website is fully optimized for mobile devices, ensuring that you can access our website from any device, at any time. We are thrilled to share our new website with you and look forward to your continued support!",
       "resume": "We are excited to announce the launch of our new website. Our new platform offers a better user experience and more features than ever before.",
-      "image": "assets/banner3.jpg",
+      "image": "assets/banner1.jpg",
       "link": "#",
       "date": "2023-05-01"
     }
@@ -64,18 +61,8 @@
   "banner" :[
   {
 	  "title": "New WebSite",
-      "description": "from the memo Auto repair team open this web page to learn more about us",
+      "description": "Our team open this web page to learn more about us!",
       "image": "assets/banner1.jpg"
-  },
-    {
-	  "title": "",
-      "description": "",
-      "image": "assets/banner2.jpg"
-  },
-      {
-	  "title": "",
-      "description": "",
-      "image": "assets/banner3.jpg"
   }
   ],
  "reviews" : [
